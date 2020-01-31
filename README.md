@@ -6,4 +6,3 @@
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/rbirkelbach/saom.jl?svg=true)](https://ci.appveyor.com/project/rbirkelbach/saom-jl)
 [![Codecov](https://codecov.io/gh/rbirkelbach/saom.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/rbirkelbach/saom.jl)
 [![Coveralls](https://coveralls.io/repos/github/rbirkelbach/saom.jl/badge.svg?branch=master)](https://coveralls.io/github/rbirkelbach/saom.jl?branch=master)
-[![Build Status](https://api.cirrus-ci.com/github/rbirkelbach/saom.jl.svg)](https://cirrus-ci.com/github/rbirkelbach/saom.jl)
